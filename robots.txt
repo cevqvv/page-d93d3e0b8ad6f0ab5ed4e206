@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-095fb1be29.chuangxiuzb.cn/sitemap.xml

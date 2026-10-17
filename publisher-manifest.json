@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "b40551dcc0a816896a3a3e1b",
+  "owner": "cevqvv",
+  "repo": "page-d93d3e0b8ad6f0ab5ed4e206",
+  "title": "TK直播专线机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d93d3e0b8ad6f0ab5ed4e206",
+      "a": "TK直播专线机场",
+      "b": "",
+      "entity": "TK直播专线机场",
+      "brand": "TK直播专线机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "62309c9d5d743f1d2bf2b2733b64054d1fffd96abbd399e90e5c5a0d36f80eb0",
+      "content": {
+        "keyword1": "TK直播专线机场",
+        "keyword2": "",
+        "primary_entity": "TK直播专线机场",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TK直播专线机场把直播专线写成三档订阅。流量有顶、设备有数、月付或年付。短句说明。客户端请自备，本页不给安装包。",
+          "AI_DESCRIPTION": "TK直播专线机场把直播专线写成三档订阅。流量有顶、设备有数、月付或年付。短句说明。客户端请自备，本页不给安装包。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:#261810;color:#F3E6D8;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",system-ui,sans-serif;line-height:1.65;font-size:17px}\na{color:#8EE3C5;text-decoration:none}\na:hover{text-decoration:underline}\nmain{display:block}\n.hero{display:flex;align-items:flex-start;justify-content:space-between;gap:48px;padding:7vh 7vw 8vh;min-height:100vh;border-bottom:1px solid #5C3D2E}\n.hero-copy{flex:1.15;max-width:640px}\n.hero-panel{flex:0.85;max-width:420px;margin-top:18vh}\n.anchors{display:flex;flex-wrap:wrap;gap:10px 18px;margin-bottom:40px}\n.anchors a{display:inline-block;padding:6px 0;color:#C4B0A0;border-bottom:1px solid #3A8F76;font-size:14px;letter-spacing:.08em}\n.anchors a:hover{color:#8EE3C5}\nh1{font-size:clamp(32px,5.2vw,58px);line-height:1.15;font-weight:700;letter-spacing:.02em;margin:0 0 28px;color:#F8F0E6}\n.lead{font-size:18px;color:#8EE3C5;margin-bottom:18px}\n.hero-copy p{margin-bottom:14px;color:#E4D2C2;max-width:34em}\n.jump{display:inline-block;margin-top:22px;padding:12px 22px;background:#8EE3C5;color:#1F1611;border-radius:999px;font-weight:600;box-shadow:0 12px 28px rgba(0,0,0,.28)}\n.jump:hover{text-decoration:none;background:#A8F0D4}\n.panel{background:#3A241C;border-radius:28px;box-shadow:0 18px 48px rgba(0,0,0,.35);padding:28px 26px 22px}\n.panel h2{font-size:15px;letter-spacing:.16em;text-transform:uppercase;color:#8EE3C5;margin-bottom:18px;font-weight:600}\n.panel dl{display:grid;grid-template-columns:1fr auto;gap:14px 12px;align-items:baseline}\n.panel dt{color:#C4B0A0;font-size:14px}\n.panel dd{text-align:right;font-size:20px;font-weight:650;color:#F8F0E6}\n.panel dd small{display:block;font-size:12px;font-weight:400;color:#A89080;margin-top:2px}\n.mark{color:#8EE3C5;font-size:12px;letter-spacing:.12em}\n.note{margin-top:20px;padding-top:16px;border-top:1px solid #5C3D2E;color:#C4B0A0;font-size:13px}\n.wrap{padding:72px 7vw;max-width:860px}\n.wrap h2{font-size:clamp(26px,3.4vw,36px);margin-bottom:12px;line-height:1.25}\n.sub{color:#C4B0A0;margin-bottom:36px}\n.plan{background:#3A241C;border-radius:28px;box-shadow:0 16px 40px rgba(0,0,0,.28);padding:32px 28px 28px;margin-bottom:28px}\n.plan-hot{box-shadow:0 20px 50px rgba(62,143,118,.22);outline:2px solid #8EE3C5}\n.plan-top{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:8px}\n.plan h3{font-size:26px}\n.badge{background:#8EE3C5;color:#1F1611;border-radius:999px;padding:4px 12px;font-size:12px;font-weight:700;letter-spacing:.08em}\n.price{font-size:34px;color:#8EE3C5;margin:10px 0 4px;font-weight:700}\n.year{color:#C4B0A0;font-size:14px;margin-bottom:18px}\n.plan ul{list-style:none}\n.plan li{padding:10px 0;border-top:1px solid #5C3D2E;color:#E4D2C2}\n.plan li:first-child{border-top:0}\n.steps{display:flex;flex-direction:column;gap:20px}\n.step{background:#3A241C;border-radius:28px;box-shadow:0 16px 40px rgba(0,0,0,.28);padding:24px 26px}\n.step h3{font-size:20px;margin-bottom:8px;color:#8EE3C5}\n.client-box{background:#3A241C;border-radius:28px;box-shadow:0 16px 40px rgba(0,0,0,.28);padding:28px 26px}\n.client-box h3{margin:18px 0 8px;font-size:18px}\n.client-box h3:first-child{margin-top:0}\n.client-box p{margin-bottom:10px;color:#E4D2C2}\n.faq-list{display:flex;flex-direction:column;gap:14px}\ndetails{background:#3A241C;border-radius:28px;box-shadow:0 16px 40px rgba(0,0,0,.28);padding:6px 8px}\nsummary{cursor:pointer;list-style:none;padding:16px 18px;font-weight:650;font-size:17px}\nsummary::-webkit-details-marker{display:none}\nsummary::before{content:\"+\";display:inline-block;width:1.2em;color:#8EE3C5;font-weight:700}\ndetails[open] summary::before{content:\"–\"}\ndetails p{padding:0 18px 18px 42px;color:#E4D2C2}\n.foot{padding:28px 7vw 48px;color:#A89080;font-size:13px;border-top:1px solid #5C3D2E}\n@media (max-width:860px){\n.hero{flex-direction:column;gap:28px;padding:6vh 6vw 7vh;min-height:0}\n.hero-panel{margin-top:0;max-width:none;width:100%}\n.wrap{padding:48px 6vw}\n.plan-top{flex-direction:column}\n.price{font-size:28px}\n}\n</style><main>\n<section class=\"hero\" id=\"top\">\n<div class=\"hero-copy\">\n<nav class=\"anchors\">\n<a href=\"#plans\">套餐</a>\n<a href=\"#guide\">使用说明</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n<h1>TK直播专线机场</h1>\n<p class=\"lead\">直播要连得住。订阅把额度写死。</p>\n<p>别把套餐写成口号。额度、台数、付款周期，三件事。</p>\n<p>看直播会占流量。连麦更占。选档前先估自己的时长。</p>\n<p>配置不在浏览器里完成。工具你自己准备。本页只交代怎么订、订完看什么。</p>\n<a class=\"jump\" href=\"#plans\">先看三档价格</a>\n</div>\n<aside class=\"hero-panel\">\n<div class=\"panel\">\n<h2>四行速览</h2>\n<dl>\n<dt>可订档位</dt>\n<dd>3 档<small>基础 / 旗舰 / 团队</small></dd>\n<dt>起步月费</dt>\n<dd>¥15<small>旗舰 ¥35 · 团队 ¥85</small></dd>\n<dt>年付算法</dt>\n<dd>×10 个月<small>十二个月一次结清</small></dd>\n<dt>客户端</dt>\n<dd>自备<small>无安装包、无指定软件</small></dd>\n</dl>\n<p class=\"note\"><span class=\"mark\">说明</span>　本页不报速率，不报覆盖，不报线路种类。开通后以当时凭证为准。</p>\n</div>\n</aside>\n</section>\n<section class=\"wrap\" id=\"plans\">\n<h2>三档套餐，从上到下看</h2>\n<p class=\"sub\">单列大卡。一档一档读完再决定。年付按十个月计。</p>\n<article class=\"plan\">\n<div class=\"plan-top\">\n<h3>基础版</h3>\n</div>\n<p class=\"price\">¥15 / 月</p>\n<p class=\"year\">按年付仅需 ¥150 / 年</p>\n<ul>\n<li>每月 100GB 流量额度</li>\n<li>同时在线 3 台设备</li>\n<li>适合单人、短时观看</li>\n<li>工单按到达顺序处理</li>\n</ul>\n</article>\n<article class=\"plan plan-hot\">\n<div class=\"plan-top\">\n<h3>旗舰版</h3>\n<span class=\"badge\">常用档</span>\n</div>\n<p class=\"price\">¥35 / 月</p>\n<p class=\"year\">按年付仅需 ¥350 / 年</p>\n<ul>\n<li>每月 300GB 流量额度</li>\n<li>同时在线 5 台设备</li>\n<li>适合连麦、多端轮换</li>\n<li>工单优先排队</li>\n</ul>\n</article>\n<article class=\"plan\">\n<div class=\"plan-top\">\n<h3>团队版</h3>\n</div>\n<p class=\"price\">¥85 / 月</p>\n<p class=\"year\">按年付仅需 ¥850 / 年</p>\n<ul>\n<li>每月 1000GB 流量额度</li>\n<li>同时在线 20 台设备</li>\n<li>适合小组共用一笔配额</li>\n<li>可沟通批量开通需求</li>\n</ul>\n</article>\n</section>\n<section class=\"wrap\" id=\"guide\">\n<h2>使用说明</h2>\n<p class=\"sub\">四步。没有隐藏第五步。</p>\n<div class=\"steps\">\n<article class=\"step\">\n<h3>1. 对时长，再对档</h3>\n<p>先数自己一周看多久。100GB、300GB、1000GB 是硬顶。超了就停，不自动加量。</p>\n</article>\n<article class=\"step\">\n<h3>2. 选定月付或年付</h3>\n<p>月付灵活。年付一次付十个月的价钱，覆盖十二个月。付款入口以实际订单页为准。</p>\n</article>\n<article class=\"step\">\n<h3>3. 收下凭证，抄进工具</h3>\n<p>开通后会给出订阅凭证和配置说明。把字段抄进你已会用的工具。本页不代填。</p>\n</article>\n<article class=\"step\">\n<h3>4. 盯额度，错开设备</h3>\n<p>流量按自然月重置。设备数按档封顶。要换档，先看当前周期是否用尽，再改订。</p>\n</article>\n</div>\n</section>\n<section class=\"wrap\" id=\"clients\">\n<h2>客户端</h2>\n<p class=\"sub\">参考列表为空。因此不给下载地址，也不点名某一款软件。</p>\n<div class=\"client-box\">\n<h3>我们不提供什么</h3>\n<p>不提供安装包。不提供商店链接。不维护兼容清单。url 留空，避免伪造下载。</p>\n<h3>你需要自备什么</h3>\n<p>用你手头已经会用的工具。能导入订阅、能填写配置即可。配不通就换工具，别在这页找原因。</p>\n<h3>和套餐的关系</h3>\n<p>套餐管额度与台数。工具管怎么连。两件事分开。连不上不等于额度没到账，先核对凭证再排查本地设置。</p>\n</div>\n</section>\n<section class=\"wrap\" id=\"faq\">\n<h2>常见问题</h2>\n<p class=\"sub\">能折叠。点开一条，读完再开下一条。</p>\n<div class=\"faq-list\">\n<details>\n<summary>TK直播专线机场卖的是什么？</summary>\n<p>按月或按年的直播专线订阅。本页写清配额与设备上限。不开口承诺速率、覆盖范围或线路种类。</p>\n</details>\n<details>\n<summary>月付和年付怎么选？</summary>\n<p>只订一两个月，走月付。确定长期用，走年付。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。相当于月费乘十。</p>\n</details>\n<details>\n<summary>流量用尽会怎样？</summary>\n<p>当月额度用完即止。基础版 100GB，旗舰版 300GB，团队版 1000GB。本页不承诺额外加速或自动升级。</p>\n</details>\n<details>\n<summary>为什么找不到下载按钮？</summary>\n<p>因为没有可核验的官方客户端地址。不伪造链接。请使用自备工具导入凭证。</p>\n</details>\n<details>\n<summary>设备超了怎么办？</summary>\n<p>基础版 3 台，旗舰版 5 台，团队版 20 台。超出需自行下线一台。本页不提供绕过台数的办法。</p>\n</details>\n<details>\n<summary>工单怎么排？退款怎么说？</summary>\n<p>基础版按到达顺序。旗舰版优先排队。团队版可沟通批量需求。退款规则本页不单列，以免编造承诺，以订单页为准。</p>\n</details>\n</div>\n</section>\n</main>\n<footer class=\"foot\">TK直播专线机场　本页仅展示订阅档位与使用步骤　不构成对线路、性能或兼容性的保证</footer>",
+          "hash": "75560161817cad309d585b430d69c79f91a0938983b5e459acc644bd614477c8",
+          "seo": {
+            "title": "TK直播专线机场 · 订阅、额度与自备客户端",
+            "keywords": "TK直播专线机场,直播专线订阅,流量配额,年付套餐,自备客户端",
+            "description": "TK直播专线机场把直播专线写成三档订阅。流量有顶、设备有数、月付或年付。短句说明。客户端请自备，本页不给安装包。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "1208",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chuangxiuzb.cn",
+    "host": "p-095fb1be29.chuangxiuzb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ff1a36807a218beee89c50219b596dac86c396236332a33c4ffb7f9d6ceb6d60",
+    "sitemap.xml": "27f52e06ae764649bec33a08167a4a0bc0b73991855f131acbecab3ea5b23d9d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0cb940a9550ee5a4f9b8a67cab3f9c159211e0b4b502f040446deef3fac59a13",
+    "robots.txt": "6b239a5fb83ae75b0bbea35e6c0ba5e1cfb56a067aea2bdd6ed7fcb933967337",
+    "62345b60a7dd1ce9794abfa54ef88351.txt": "dd76373b2992a74873d00e912abf84dafee4a09cd66c2e2a6d553934ead75b2a"
+  },
+  "revision": "e7fa8fedf037a15a2344813c4e1a3d37186a7d46b6d6dd9a757991a984022eb5"
+}
